@@ -1,0 +1,1 @@
+unik build --name goApp2 --path ./ --base firecracker --language go --provider firecracker --force
