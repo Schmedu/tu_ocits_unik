@@ -1,0 +1,2 @@
+unik run --instanceName goApp2 --imageName goApp2
+unik delete-instance goApp2
